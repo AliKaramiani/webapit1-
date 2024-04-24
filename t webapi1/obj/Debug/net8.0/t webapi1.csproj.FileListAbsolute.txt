@@ -1,0 +1,33 @@
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\appsettings.json
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\t webapi1.exe
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\t webapi1.deps.json
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\t webapi1.runtimeconfig.json
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\t webapi1.dll
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\t webapi1.pdb
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Click\Desktop\c#\t webapi1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.csproj.AssemblyReference.cache
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.AssemblyInfoInputs.cache
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.AssemblyInfo.cs
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.csproj.CoreCompileInputs.cache
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\staticwebassets\msbuild.t webapi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\staticwebassets\msbuild.build.t webapi1.props
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.t webapi1.props
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.t webapi1.props
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\scopedcss\bundle\t webapi1.styles.css
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.csproj.Up2Date
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.dll
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\refint\t webapi1.dll
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.pdb
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\t webapi1.genruntimeconfig.cache
+C:\Users\Click\Desktop\c#\t webapi1\obj\Debug\net8.0\ref\t webapi1.dll

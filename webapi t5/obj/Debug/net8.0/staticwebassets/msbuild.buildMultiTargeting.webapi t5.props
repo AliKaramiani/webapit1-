@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webapi t5.props" />
+</Project>
